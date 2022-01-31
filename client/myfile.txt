@@ -1,0 +1,3 @@
+Hello world
+This is one string with Hello world
+is repeating twice
